@@ -1,5 +1,5 @@
 body{
-    background-image: url(/my-second-portfolio/IMAGES/download.jpg);
+    background-image: url(download.jpg);
     background-color: black;
     color: antiquewhite;
     text-align: center;
@@ -183,4 +183,5 @@ a:hover{
 
 .copy-right{
     margin: 120px;
+
 }
